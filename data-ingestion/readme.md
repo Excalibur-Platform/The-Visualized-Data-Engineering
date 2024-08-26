@@ -66,6 +66,9 @@ prev |
 ### Data Validity
 ![Gambar 15](../img/data-quality/data-validity.jpg)
 
+### Data Accuracy
+![Gambar 16](../img/data-quality/data-accuracy.jpg)
+
 [prev](./readme.md#extract-transform-load) | next
 
 Sumber & Referensi :
