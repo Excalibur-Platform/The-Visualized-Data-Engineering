@@ -39,7 +39,7 @@ prev |
 ### Prinsip ETL
 ![Gambar 7](../img/data-ingestion/etl-principle.jpg)
 
-### ETL Tools
+### ETL Tools 
 ![Gambar 8](../img/data-ingestion/etl-tools.jpg)
 
 ### Schedule ETL
