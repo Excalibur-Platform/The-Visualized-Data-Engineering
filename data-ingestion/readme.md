@@ -69,3 +69,4 @@ prev |
 [prev](./readme.md#extract-transform-load) | next
 
 Sumber & Referensi :
+[Medium](https://medium.com/the-modern-scientist/the-art-of-data-ingestion-powering-analytics-from-operational-sources-467552d6c9a2)
