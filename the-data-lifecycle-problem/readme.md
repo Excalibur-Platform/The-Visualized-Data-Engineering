@@ -5,22 +5,22 @@ Content :
 - [Developer Common Mistakes](./readme.md#developers-common-mistakes)
 
 ## Data Lifecycle
-![Gambar 1](../img/data-lifecycle.svg)
+![Gambar 1](../img/data-lifecycle/data-lifecycle.svg)
 
 prev |
 [next](./readme.md#common-mistakes)
 
 ## Common Mistakes
-![Gambar 2](../img/data-lifecycle-problems.svg)
-![Gambar 3](../img/data-lifecycle-problem-1.svg)
-![Gambar 3](../img/data-lifecycle-problem-2.svg)
-![Gambar 4](../img/data-lifecycle-problem-3.svg)
+![Gambar 2](../img/data-lifecycle/data-lifecycle-problems.svg)
+![Gambar 3](../img/data-lifecycle/data-lifecycle-problem-1.svg)
+![Gambar 3](../img/data-lifecycle/data-lifecycle-problem-2.svg)
+![Gambar 4](../img/data-lifecycle/data-lifecycle-problem-3.svg)
 
 [prev](./readme.md#data-lifecycle) |
 [next](./readme.md#bonus)
 
 ## Bonus
-![Gambar 5](../img/data-lifecycle-scd.svg)
+![Gambar 5](../img/data-lifecycle/data-lifecycle-scd.svg)
 
 Sumber & Referensi :
 [Datacamp](https://www.datacamp.com/tutorial/mastering-slowly-changing-dimensions-scd) |
