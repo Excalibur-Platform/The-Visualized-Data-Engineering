@@ -53,34 +53,34 @@ prev |
 ![Gambar 7](../img/data-ingestion/etl-principle.svg)
 
 ### ETL Tools 
-![Gambar 8](../img/data-ingestion/etl-tools.jpg)
+![Gambar 8](../img/data-ingestion/etl-tools.svg)
 
 ### Schedule ETL
-![Gambar 9](../img/data-ingestion/etl-schedule.jpg)
+![Gambar 9](../img/data-ingestion/etl-schedule.svg)
 
 [prev](./readme.md#tipe-data-ingestion) |
 [next](./readme.md#quality-check)
 
 ## Quality Check
-![Gambar 10](../img/data-quality/data-quality-pillar.jpg)
+![Gambar 10](../img/data-quality/data-quality-pillar.svg)
 
 ### Kelengkapan Data (Completeness)
-![Gambar 11](../img/data-quality/data-completeness.jpg)
+![Gambar 11](../img/data-quality/data-completeness.svg)
 
 ### Keunikan Data (Uniqueness)
-![Gambar 12](../img/data-quality/data-uniqueness.jpg)
+![Gambar 12](../img/data-quality/data-uniqueness.svg)
 
 ### Ketepatan Waktu (Timeliness)
-![Gambar 13](../img/data-quality/data-timeliness.jpg)
+![Gambar 13](../img/data-quality/data-timeliness.svg)
 
 ### Konsistensi Data (Consistency)
-![Gambar 14](../img/data-quality/data-consistency.jpg)
+![Gambar 14](../img/data-quality/data-consistency.svg)
 
 ### Validitas Data (Validity)
-![Gambar 15](../img/data-quality/data-validity.jpg)
+![Gambar 15](../img/data-quality/data-validity.svg)
 
 ### Akurasi Data (Accuracy)
-![Gambar 16](../img/data-quality/data-accuracy.jpg)
+![Gambar 16](../img/data-quality/data-accuracy.svg)
 
 [prev](./readme.md#extract-transform-load) | next
 
